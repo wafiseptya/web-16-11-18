@@ -1,5 +1,7 @@
 # Laravel 5.4 for Laravel Shift
 
+NAMA KALIAN ATAU APA AJA
+
 This repository contains the latest version of Laravel 5.4. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
 ## Laravel Shift
